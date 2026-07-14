@@ -33,8 +33,9 @@ body {
   margin-top: 60px;
 }
 
-.reset-score-button ,
+.reset-score-button,
 .auto-play-button,
+/* Solution for exercise 12x. */
 .reset-confirm-button {
   background-color: white;
   border: none;
@@ -43,6 +44,7 @@ body {
   cursor: pointer;
 }
 
-.reset-confirm-button{
+/* Solution for exercise 12x. */
+.reset-confirm-button {
   margin-left: 10px;
 }
